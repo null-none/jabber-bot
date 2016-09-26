@@ -1,0 +1,6 @@
+README.rst
+setup.py
+jabber_bot.egg-info/PKG-INFO
+jabber_bot.egg-info/SOURCES.txt
+jabber_bot.egg-info/dependency_links.txt
+jabber_bot.egg-info/top_level.txt
