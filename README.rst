@@ -12,9 +12,9 @@ Install
     pip install jabber-bot
 
 
-    =======
-    Example
-    =======
+=======
+Example
+=======
 
     .. code-block:: python
 
